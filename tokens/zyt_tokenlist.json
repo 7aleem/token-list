@@ -1,14 +1,3 @@
-{
-  "name": "ZYT Dinar List",
-  "logoURI": "https://raw.githubusercontent.com/7aleem/token-list/main/assets/mainnet/FXaU8Dmx1o3WoN6gpaNyRYxdMboWQWwaeXHFmYj3Se5L/logo.png",
-  "tags": {
-    "ZYT": {
-      "name": "Zaytoon Dinar",
-      "description": "Official ZYT token used across DeFi apps."
-    }
-  },
-  "timestamp": "2025-08-02T00:00:00+00:00",
-  "tokens": [
     {
       "chainId": 101,
       "address": "FXaU8Dmx1o3WoN6gpaNyRYxdMboWQWwaeXHFmYj3Se5L",
@@ -23,6 +12,4 @@
         "description": "ZYT is a Solana-based token representing community value and utility. It is designed for decentralized applications, community rewards, and DeFi ecosystems."
       }
     }
-  ]
-}
 
